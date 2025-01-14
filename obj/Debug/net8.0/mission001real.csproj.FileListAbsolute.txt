@@ -1,0 +1,14 @@
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.AssemblyInfoInputs.cache
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.AssemblyInfo.cs
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.csproj.CoreCompileInputs.cache
+/Users/danielwait/RiderProjects/mission001real/bin/Debug/net8.0/mission001real
+/Users/danielwait/RiderProjects/mission001real/bin/Debug/net8.0/mission001real.deps.json
+/Users/danielwait/RiderProjects/mission001real/bin/Debug/net8.0/mission001real.runtimeconfig.json
+/Users/danielwait/RiderProjects/mission001real/bin/Debug/net8.0/mission001real.dll
+/Users/danielwait/RiderProjects/mission001real/bin/Debug/net8.0/mission001real.pdb
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.dll
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/refint/mission001real.dll
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.pdb
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/mission001real.genruntimeconfig.cache
+/Users/danielwait/RiderProjects/mission001real/obj/Debug/net8.0/ref/mission001real.dll
